@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0953-reverse-only-letters) |
+| [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0953-reverse-only-letters) |
+| [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
