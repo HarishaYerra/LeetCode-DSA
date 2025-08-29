@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
