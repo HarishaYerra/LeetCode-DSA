@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0953-reverse-only-letters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -69,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
