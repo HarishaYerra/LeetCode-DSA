@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -78,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
