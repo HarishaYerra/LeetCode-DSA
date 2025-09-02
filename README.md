@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
