@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0434-number-of-segments-in-a-string) |
