@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/HarishaYerra/LeetCode-DSA/tree/master/0434-number-of-segments-in-a-string) |
